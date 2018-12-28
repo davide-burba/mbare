@@ -1,0 +1,8 @@
+.Rhistory
+.DS_Store
+.ipynb_checkpoints
+*.csv
+*.p
+*.pickle
+*.h5
+__pycache__
