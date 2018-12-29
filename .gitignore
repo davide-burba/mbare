@@ -6,3 +6,4 @@
 *.pickle
 *.h5
 __pycache__
+docs/_build
