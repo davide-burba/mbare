@@ -2,7 +2,7 @@
 '''
 
 def hello_mbare():
-    '''Prints "hello mbare"
+    '''Prints "Hello mbare!"
 
     Parameters
     ----------
@@ -11,16 +11,16 @@ def hello_mbare():
     Return
     ------
     string
-        'hello mbare'
+        'Hello mbare!'
 
     Examples
     --------
     >>> from mbare import hello_mbare
-    >>> hello_mbare
-    hello mbare
+    >>> hello_mbare()
+    Hello mbare!
 
     Note
     ----
     Mbaaareee
     '''
-    print('hello mbare')
+    print('Hello mbare!')
