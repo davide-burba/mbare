@@ -1,4 +1,4 @@
-Hello mbare
+Hello mbare!
 ==============
 
 .. automodule:: hello_mbare
